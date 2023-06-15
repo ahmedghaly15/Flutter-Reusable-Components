@@ -14,7 +14,7 @@ Each component is fully customizable. Additionally, all components are thoroughl
 ## Contents
 
 - [Contributing](#contributing)
-- [Getting-Started](#getting-started)
+- [Getting Started](#getting-started)
 - [Contact](#contact)
 
 ## Contributing
@@ -36,4 +36,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Contact
 
-If you have any questions or comments about this repository, please feel free to reach out to me at [My-Email](ahmedghaly0767@gmail.com). I'm always happy to hear from other developers and discuss ways to improve this project.
+If you have any questions or comments about this repository, please feel free to reach out to me at ahmedghaly0767@gmail.com. I'm always happy to hear from other developers and discuss ways to improve this project.
